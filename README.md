@@ -13,7 +13,7 @@ git clone https://github.com/your-username/Treasure-Island-Adventure-Game.git
 bash
 cd Treasure-Island-Adventure-Game
 
-R3) un the Python script:
+3) Run the Python script:
 bash
 python treasure_island.py
 Follow the prompts and make choices by typing the options provided. Will you find the treasure or meet a grim fate?
